@@ -40,3 +40,25 @@ Helps visualize system behavior, dependencies, and business workflows.
 Ensuring requirements are complete, consistent, feasible, and testable.
 Stakeholder reviews, walkthroughs, and prototyping are common validation methods.
 Confirms alignment with business goals before moving into design and development.
+## Types Of Requirements
+### 1. Functional Requirements
+#### Definition:
+These specify what the system must do—the behaviors, features, or services the system offers. They describe system functions, interactions, and business rules.
+#### Examples (Booking Management Project):
+- The system shall allow users to create a new booking by selecting a date, time, and service type.
+- The system shall check availability of resources (e.g., rooms, staff, equipment) before confirming a booking.
+- The system shall allow users to modify or cancel bookings up to 24 hours before the scheduled time.
+- The system shall send confirmation emails (and/or SMS) to users once a booking is created or modified.
+- The system shall generate daily and monthly booking reports for administrators.
+- The system shall support user authentication (login/logout) and role-based access (e.g., user, admin, manager).
+### 2. Non-Functional Requirements
+#### Definition:
+These specify how the system performs the functions—the quality attributes such as performance, usability, reliability, security, etc.
+#### Examples (Booking Management Project):
+- Performance: The system shall process booking confirmations within 2 seconds of user request under normal load.
+- Scalability: The system should handle at least 1,000 concurrent booking requests without degradation.
+- Reliability / Availability: The system shall maintain 99.9% uptime, excluding scheduled maintenance.
+- Security: All user data must be stored encrypted. The system shall enforce strong password policies and use HTTPS for all data transactions.
+- Usability: The user interface shall be intuitive, providing clear error messages and guidance. Non-technical users should be able to make a booking in no more than 3 steps.
+- Maintainability: Code should follow modular design principles; the system shall allow updates to booking rules without major code rewrites.
+- Localization / Internationalization: The system shall support local date/time formats and multiple currencies (if applicable) for users from different regions.
