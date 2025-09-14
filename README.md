@@ -62,3 +62,5 @@ These specify how the system performs the functions—the quality attributes suc
 - Usability: The user interface shall be intuitive, providing clear error messages and guidance. Non-technical users should be able to make a booking in no more than 3 steps.
 - Maintainability: Code should follow modular design principles; the system shall allow updates to booking rules without major code rewrites.
 - Localization / Internationalization: The system shall support local date/time formats and multiple currencies (if applicable) for users from different regions.
+## Use Case Diagrams
+
