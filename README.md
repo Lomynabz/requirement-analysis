@@ -63,4 +63,15 @@ These specify how the system performs the functions—the quality attributes suc
 - Maintainability: Code should follow modular design principles; the system shall allow updates to booking rules without major code rewrites.
 - Localization / Internationalization: The system shall support local date/time formats and multiple currencies (if applicable) for users from different regions.
 ## Use Case Diagrams
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used in requirement analysis.  
+They illustrate the interactions between system users (actors) and the system itself through different use cases.  
 
+**Benefits of Use Case Diagrams:**
+- Provide a clear visualization of system functionality from the user’s perspective.  
+- Help identify actors (users, admins, external systems) and their goals.  
+- Support communication between stakeholders and developers.  
+- Serve as a foundation for writing detailed requirements and test cases.
+
+**Use Case Diagram for the Booking System:**
+
+![Use Case Diagram for Booking System](images/alx-booking-uc.png)
