@@ -18,3 +18,25 @@ It facilitates a shared understanding among all stakeholders, including develope
 A thorough requirement analysis lowers the risk of project failure by ensuring the project's objectives are well-understood and feasible. 
 ### 7. Supports Verification and Validation:
 It provides the basis for verification (ensuring the software is built correctly to the specifications) and validation (ensuring the software meets the user's actual needs). 
+## Key Activities in Requirement Analysis.
+Requirement analysis ensures that software solutions align with business objectives and user expectations. The process involves five key activities:
+- Requirement Gathering
+Collecting raw requirements from stakeholders, clients, and end-users.
+Sources include interviews, surveys, existing system documentation, and direct observation.
+Focus is on capturing all potential needs without filtering or judgment at this stage.
+- Requirement Elicitation
+Engaging with stakeholders to clarify and refine gathered requirements.
+Techniques include workshops, brainstorming sessions, prototyping, and questionnaires.
+The goal is to uncover implicit needs, constraints, and expectations that may not be immediately obvious.
+- Requirement Documentation
+Structuring requirements into clear, concise, and accessible formats.
+Common outputs include Software Requirement Specifications (SRS), user stories, and use cases.
+Documentation ensures all parties share a consistent understanding of system needs.
+- Requirement Analysis and Modeling
+Reviewing and breaking down requirements to identify conflicts, overlaps, or gaps.
+Applying modeling techniques such as data flow diagrams, UML diagrams, or process models.
+Helps visualize system behavior, dependencies, and business workflows.
+- Requirement Validation
+Ensuring requirements are complete, consistent, feasible, and testable.
+Stakeholder reviews, walkthroughs, and prototyping are common validation methods.
+Confirms alignment with business goals before moving into design and development.
