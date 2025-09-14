@@ -40,7 +40,7 @@ Helps visualize system behavior, dependencies, and business workflows.
 Ensuring requirements are complete, consistent, feasible, and testable.
 Stakeholder reviews, walkthroughs, and prototyping are common validation methods.
 Confirms alignment with business goals before moving into design and development.
-## Types Of Requirements
+## Types of Requirements
 ### 1. Functional Requirements
 #### Definition:
 These specify what the system must do—the behaviors, features, or services the system offers. They describe system functions, interactions, and business rules.
