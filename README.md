@@ -2,6 +2,7 @@
 requrements for creating AirBnb clone app
 ## What is Requirement Analysis?
 Requrement analysis is all the requirements needed in creating or accomplishing the project at hand
+
 ## Why is Requirement Analysis Important?
 These are the seven reasons as to why the Requirement Analysis is important
 ### 1. Ensures Alignment with User Needs:
@@ -18,6 +19,7 @@ It facilitates a shared understanding among all stakeholders, including develope
 A thorough requirement analysis lowers the risk of project failure by ensuring the project's objectives are well-understood and feasible. 
 ### 7. Supports Verification and Validation:
 It provides the basis for verification (ensuring the software is built correctly to the specifications) and validation (ensuring the software meets the user's actual needs). 
+
 ## Key Activities in Requirement Analysis.
 Requirement analysis ensures that software solutions align with business objectives and user expectations. The process involves five key activities:
 - Requirement Gathering
@@ -40,6 +42,7 @@ Helps visualize system behavior, dependencies, and business workflows.
 Ensuring requirements are complete, consistent, feasible, and testable.
 Stakeholder reviews, walkthroughs, and prototyping are common validation methods.
 Confirms alignment with business goals before moving into design and development.
+
 ## Types of Requirements
 ### 1. Functional Requirements
 #### Definition:
@@ -51,6 +54,7 @@ These specify what the system must do—the behaviors, features, or services the
 - The system shall send confirmation emails (and/or SMS) to users once a booking is created or modified.
 - The system shall generate daily and monthly booking reports for administrators.
 - The system shall support user authentication (login/logout) and role-based access (e.g., user, admin, manager).
+
 ### 2. Non-Functional Requirements
 #### Definition:
 These specify how the system performs the functions—the quality attributes such as performance, usability, reliability, security, etc.
@@ -62,6 +66,7 @@ These specify how the system performs the functions—the quality attributes suc
 - Usability: The user interface shall be intuitive, providing clear error messages and guidance. Non-technical users should be able to make a booking in no more than 3 steps.
 - Maintainability: Code should follow modular design principles; the system shall allow updates to booking rules without major code rewrites.
 - Localization / Internationalization: The system shall support local date/time formats and multiple currencies (if applicable) for users from different regions.
+
 ## Use Case Diagrams
 Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used in requirement analysis.  
 They illustrate the interactions between system users (actors) and the system itself through different use cases.  
@@ -73,11 +78,9 @@ They illustrate the interactions between system users (actors) and the system it
 - Serve as a foundation for writing detailed requirements and test cases.
 
 **Use Case Diagram for the Booking System:**
-
 ![Use Case Diagram for Booking System](images/alx-booking-uc.png)
 
 ## Acceptance Criteria
-
 #### Definition and Importance:
 Acceptance criteria are a set of conditions that a software product must satisfy to be accepted by stakeholders, typically the client or end-user. They define what “done” means for a feature, ensuring clear expectations between developers, testers, and stakeholders.
 
@@ -86,6 +89,7 @@ Acceptance criteria are a set of conditions that a software product must satisfy
 - Serve as a reference for writing test cases and verifying functionality.
 - Reduce misunderstandings and scope creep during development.
 - Ensure features meet user needs and business requirements before release.
+
 #### Example: Checkout Feature in the Booking Management System
 - Users must be able to select available bookings and proceed to checkout.
 - Payment options should include credit/debit card, mobile money, and online wallets.
