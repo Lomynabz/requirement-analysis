@@ -78,7 +78,8 @@ They illustrate the interactions between system users (actors) and the system it
 - Serve as a foundation for writing detailed requirements and test cases.
 
 **Use Case Diagram for the Booking System:**
-![Uploading alx-booking-uc.png…]()
+<img width="631" height="182" alt="alx-booking-uc" src="/Users/lantano/Downloads/alx-booking-uc.png" />
+
 
 ## Acceptance Criteria
 #### Definition and Importance:
